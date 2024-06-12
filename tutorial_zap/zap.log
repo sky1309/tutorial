@@ -1,0 +1,6 @@
+2024-06-12T16:03:46.453+0800	INFO	tutorial_zap/zap_test.go:50	server start
+2024-06-12T16:03:47.465+0800	INFO	tutorial_zap/zap_test.go:52	server stop
+2024-06-12T16:04:10.462+0800	INFO	tutorial_zap/zap_test.go:51	server start
+2024-06-12T16:04:11.482+0800	INFO	tutorial_zap/zap_test.go:53	server stop
+2024-06-12T16:04:11.482+0800	INFO	tutorial_zap/zap_test.go:51	server start
+2024-06-12T16:04:12.483+0800	INFO	tutorial_zap/zap_test.go:53	server stop
